@@ -20,6 +20,6 @@ Para responder as perguntas e trazer insights relevantes à equipe de marketing,
 
 ![Slide do estudo de caso da Cyclistic](/imagens/cyclistic_apresentacao2.png)<br/><br/>
 ![Slide do estudo de caso da Cyclistic](/imagens/dashboard_sample2.png)<br/><br/>
-![Slide do estudo de caso da Cyclistic](/imagens/cyclistic_apresentacao3.png)<br/><br/>
+![Slide do estudo de caso da Cyclistic](/imagens/cyclistic_apresentacao3.png)<br/>
 
-Todos os arquivos
+Todos os arquivos estão disponíveis neste repositório. Sinta-se livre para analisar e também entrar em contato pelo meu perfil no **[LinkedIn](https://www.linkedin.com/in/eler-david/)** para dar sugestões de melhoria, recomendações, conselhos etc. Sou um profissional *iniciante* na área, portanto **toda ajuda é bem-vinda**!
