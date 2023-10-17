@@ -20,4 +20,6 @@ Para responder as perguntas e trazer insights relevantes à equipe de marketing,
 
 ![Slide do estudo de caso da Cyclistic](/imagens/cyclistic_apresentacao2.png)<br/><br/>
 ![Slide do estudo de caso da Cyclistic](/imagens/dashboard_sample2.png)<br/><br/>
-![Slide do estudo de caso da Cyclistic](/imagens/cyclistic_apresentacao3.png)
+![Slide do estudo de caso da Cyclistic](/imagens/cyclistic_apresentacao3.png)<br/><br/>
+
+Todos os arquivos
